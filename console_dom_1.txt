@@ -40,3 +40,5 @@ console.log(insertPoint);
 
 // Element in DOM "einhängen" / in Seite sichtbar
 insertPoint.appendChild(newLi)
+
+// console.log(document.getElementsByClassName("headline")[0].innerText = "iPhonee 14 ProX");
